@@ -30,8 +30,8 @@ namespace ComplexFirebaseRequest
                 try
                 {
                     var context = services.GetRequiredService<DatabaseContext>();
-                    // context.Database.EnsureCreated();
-                    DbInitializer.Initialize(context);
+                    context.Database.EnsureCreated();
+                    // DbInitializer.Initialize(context);
                 }
                 catch (Exception ex)
                 {

@@ -1,0 +1,108 @@
+{
+  "users": {
+    "df89c14e-7795-4319-afe8-39102068f884": {
+      "name": "Alexander Stoyanov",
+      "age": 34,
+      "birth-place": "Sofia",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 41 514 1223",
+      "email": "alex.st@example.com"
+    },
+    "95488150-d6b1-4e66-a4ba-3b0f0e9eb888": {
+      "name": "Ivan Kanchev",
+      "age": 31,
+      "birth-place": "Smolyan",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 41 453 1176",
+      "email": "ivan-k1vcz@example.com"
+    },
+    "cf067f5b-0ee1-4b0c-93b5-2ff0bf3ad9ed": {
+      "name": "Kiril Semerdzhiev",
+      "age": 51,
+      "birth-place": "Sofia",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 45 014 4156",
+      "email": "ksmdziev@example.com"
+    },
+    "ec806a42-2bc3-4ffc-b0be-14b6f84ec58d": {
+      "name": "Naum Maslarski",
+      "age": 47,
+      "birth-place": "Mramor",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 41 098 5653",
+      "email": "nmaslarsky@example.com"
+    },
+    "813e8d77-7a1e-484d-8845-2d0635f38fd6": {
+      "name": "Nikolay Hristov",
+      "age": 39,
+      "birth-place": "Burgas",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 44 819 1444",
+      "email": "nhrstov@example.com"
+    },
+    "a21ceed9-9ba1-4d76-8813-9475b550fa0f": {
+      "name": "John Wick",
+      "age": 41,
+      "birth-place": "New Jersey",
+      "country-of-origin": "United States",
+      "phone-number": "+1 441 554 1661",
+      "email": "jwick@example.com"
+    },
+    "ecde3e7c-d7eb-47ec-b50f-c5ac8d5c0e84": {
+      "name": "Kristiyan Kostov",
+      "age": 28,
+      "birth-place": "Smuchevo",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 40 114 6323",
+      "email": "kkostov@example.com"
+    },
+    "ea9b03a8-4e1d-4c1f-bd34-30e797a95909": {
+      "name": "Gergan Oliviev",
+      "age": 29,
+      "birth-place": "Shumen",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 44 547 9392",
+      "email": "golt@example.com"
+    },
+    "1a9fea50-0682-428e-b8d4-65a4db092e93": {
+      "name": "Cristopher Müller",
+      "age": 45,
+      "birth-place": "Graz",
+      "country-of-origin": "Austria",
+      "phone-number": "+43 488 414 1413",
+      "email": "cmueller@example.com"
+    },
+    "9686adbe-0522-49c3-a649-c6e0eb813e74": {
+      "name": "Wilhelm Wurst",
+      "age": 41,
+      "birth-place": "Magdeburg",
+      "country-of-origin": "Germany",
+      "phone-number": "+49 657 414 1223",
+      "email": "wwwurst@example.com"
+    },
+    "ca7b6012-6396-404d-ae58-054e0c9db847": {
+      "name": "Ivaylo Kostov",
+      "age": 23,
+      "birth-place": "Stara Zagora",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 41 275 7223",
+      "email": "ikstov@example.com"
+    },
+    "668c5fa0-5d85-48b2-b03e-15b30d58a9bc": {
+      "name": "Laura Fuchs",
+      "age": 24,
+      "birth-place": "Vienna",
+      "country-of-origin": "Austria",
+      "phone-number": "+359 43 766 714 7752",
+      "email": "lfuchs@example.com"
+    },
+    "46b6c096-3094-46b4-8ae3-d2cb7f193c54": {
+      "name": "Stoyana Ivanova",
+      "age": 27,
+      "birth-place": "Sofia",
+      "country-of-origin": "Bulgaria",
+      "phone-number": "+359 41 273 7414",
+      "email": "sivanova@example.com"
+    }
+  }
+}
